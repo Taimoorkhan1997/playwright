@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jest-playwright-preset": "^4.0.0"
+  }
+}
